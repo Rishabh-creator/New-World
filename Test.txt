@@ -1,2 +1,2 @@
 Hi, This is my test file. This is an added syntax.
-This is my second line
+This is my second line. This is another example of branching.
